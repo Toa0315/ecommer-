@@ -1,5 +1,1 @@
-To use this script, you will need the following packages installed in your pythong prpject:
-pip install django
-pip install pillow
-pip install wheel
-pip install setup tool 
+To use this script, install the requirements.txt in the project. <3
